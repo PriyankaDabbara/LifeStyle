@@ -34,10 +34,10 @@ A modern lifestyle and wellness website built with React, TypeScript, Vite, Tail
    `
 
 ## Available Scripts
-pm run dev - Start the local development server
-pm run build - Create a production build
-pm run preview - Preview the production build locally
-pm run lint - Run ESLint checks
+1. pm run dev - Start the local development server
+2. pm run build - Create a production build
+3. pm run preview - Preview the production build locally
+4. pm run lint - Run ESLint checks
 
 ## Project Structure
 
