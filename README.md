@@ -45,3 +45,6 @@ A modern lifestyle and wellness website built with React, TypeScript, Vite, Tail
 - src/components - Reusable UI components
 - src/pages - Page-level views for the app
 - src/App.tsx - Main routing and page layout
+
+##Video
+https://github.com/user-attachments/assets/eaf28e3f-1bf3-42f1-9d6c-a728cbb03f17
